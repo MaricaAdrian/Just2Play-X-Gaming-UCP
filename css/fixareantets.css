@@ -1,0 +1,17 @@
+body {
+  padding-top: 70px;
+}
+.top-fix { margin-top:8px; }
+.center {
+     float: none;
+     margin-left: auto;
+     margin-right: auto;
+}
+.navbar-inverse > .container > #navbar > ul > li.active > a{
+background-color:#337ab7;
+color:#FFF;
+border-radius: 30px 30px 30px 30px;
+-moz-border-radius: 30px 30px 30px 30px;
+-webkit-border-radius: 30px 30px 30px 30px;
+border: 1px solid #2e6da30;
+}

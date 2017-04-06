@@ -1,0 +1,128 @@
+   .panel > .panel-heading {
+
+    background-color: #1d2a44;
+
+    color: white;
+
+
+
+    }
+
+	.panel > .panel-heading .btn-info:hover{
+
+	background-color:#337ab7;
+
+	}
+
+	 .panel{
+
+		border-color: #1d2a44;
+		background: none;
+		color:white;
+
+	}
+
+     .panel > .panel-body ul li{
+
+    color: white;
+	background: none;
+	border: 0px;
+	/*border-radius: 5px 5px 5px 5px;
+
+-moz-border-radius: 5px 5px 5px 5px;
+
+-webkit-border-radius: 5px 5px 5px 5px; */
+
+   }
+
+   .panel > .panel-body table {
+
+    color:white;
+   }
+
+
+
+ .panel > .panel-heading .btn-info {
+
+	background: none;
+
+	color: white;
+
+	border: 0px;
+
+}
+
+
+
+.navbar-inverse > .container > #navbar > ul > li.active > a{
+
+background-color:#337ab7;
+
+color:#FFF;
+
+border-radius: 30px 30px 30px 30px;
+
+-moz-border-radius: 30px 30px 30px 30px;
+
+-webkit-border-radius: 30px 30px 30px 30px;
+
+border: 1px solid #2e6da30;
+
+}
+
+.compress{
+
+width:10%;
+
+}
+
+a.suba{
+
+color:white;
+
+}
+
+.sub{
+
+color:black;
+
+}
+
+.text-muted{
+
+color:#fff;
+
+}
+
+.table-bordered{
+
+background-color:#333;
+
+color:white;
+
+}
+
+.table-striped > tbody > tr:nth-of-type(even) {
+
+  background-color: #D3D3D3;
+
+}
+
+.table-striped > tbody > tr:hover {
+
+  background-color: #ADD8E6;
+
+}
+.page-header{
+
+color:white;
+
+}
+
+body {
+background-image: url("../images/bg/bg6.png");
+
+}
+.table th{
+color: white;
+}

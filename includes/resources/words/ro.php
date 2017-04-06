@@ -1,0 +1,9 @@
+<?php
+vreau
+cont
+nu
+pot
+wapmaster
+zbor
+plang
+?>
