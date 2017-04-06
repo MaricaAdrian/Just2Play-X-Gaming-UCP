@@ -2,4 +2,4 @@
 U.C.P. that belonged to Just2Play/X-Gaming for SA:MP server.<br>
 It's a Control Panel for San Andreas Multiplayer that helps you control your virtual character online without logging onto the server.<br>
 Configure your MySQL connection in "includes/configurare.php"<br>
-Import "ucp_database.sql" to your MySQL database.
+Import "ucp_database.sql" to your MySQL database.<br>
